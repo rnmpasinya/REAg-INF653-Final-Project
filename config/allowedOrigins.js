@@ -4,6 +4,8 @@ const allowedOrigins = [
     'http://localhost:3500',
     'http://localhost:3000',
     'https://glitch.com/edit/#!/basalt-invited-grape'
+    'https://sparkling-clover-court.glitch.me'
+    'https://glitch.com/edit/#!/sparkling-clover-court'
 ];
 
 module.exports = allowedOrigins;
